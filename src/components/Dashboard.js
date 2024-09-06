@@ -40,20 +40,16 @@ const NotificationDashboard = () => {
       title: "Tender for Road Construction Project",
       date: "12-07-2024",
       Ministry:"Road and Transport",
-      progress: 50,
     },
     {
       title: "Tender for Water Supply Infrastructure",
       date: "01-08-2024",
       Ministry:"Jal Shakti",
-
-      progress: 20,
     },
     {
       title: "Tender for School Renovation",
       date: "20-07-2024",
       Ministry:"Education",
-      progress: 80,
     },
   ];
 
